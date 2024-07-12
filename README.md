@@ -1,11 +1,10 @@
-[![MasterHead](https://www.popai.pro/share.html?shareKey=1a14f70d394dc37210cd035f9942cd864302accdc833dbf7efc9f71ec7bbaa50)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*jm75PhwcXyP4I0gVU_wxRg.gif)]
 <h1 align="center">Hi 👋, I'm Surjayan Laha</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Student from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fokoliechykwuka%2Fokoliechykwuka&psig=AOvVaw097abnCvZpK39-V6oHDEqP&ust=1720863561606000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCog7uaoYcDFQAAAAAdAAAAABAJ">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surjayanlaha2923&label=Profile%20views&color=0e75b6&style=flat" alt="surjayanlaha2923" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surjayanlaha2923" alt="surjayanlaha2923" /></a> </p>
 
 - 🔭 I’m currently working on **Generative Adversarial Networks**
 
