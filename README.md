@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*jm75PhwcXyP4I0gVU_wxRg.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/6c0f9b95746151.5e9ecde69599e.gif)
 <h1 align="center">Hi 👋, I'm Surjayan Laha</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
